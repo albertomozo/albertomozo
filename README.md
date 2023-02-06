@@ -1,5 +1,9 @@
 ### Hi there 👋 Alberto Mozo
 
+![evolucion](./img/urgull4.png)
+** conocimientos **
+
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 <!--
 **albertomozo/albertomozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
