@@ -1,7 +1,7 @@
 ### Alberto Mozo ###
 
 ![evolucion de la informacion en planos](./img/urgull4.png "de la piedra a Google Maps")
-*             Distintos soportes y formatos para el plano del monte urgull. De la piedra a google Maps   *
+* Distintos soportes y formatos para el plano del monte urgull. De la piedra a google Maps *
 
 ## conocimientos ##
 
@@ -10,9 +10,10 @@
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
 ## contacta ##
-![GITHUB](https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=GITHUB&logoColor=white)
-![GITHUB](https://img.shields.io/badge/DISCORD-FFFFFF?style=for-the-badge&logo=DISCORD&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=GITHUB&logoColor=white)
+[![DISCORD](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=DISCORD&logoColor=white)](https://discord.gg/mJKztrxMBa)
 ![https://img.shields.io/badge/LINKEDIN-F7DF1E?style=for-the-badge&logo=LINKEDIN&logoColor=black](https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/)
+![https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/](https://img.shields.io/badge/LINKEDIN-F7DF1E?style=for-the-badge&logo=LINKEDIN&logoColor=black)
 
 
 
