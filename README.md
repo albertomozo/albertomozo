@@ -13,7 +13,8 @@
 ![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=GITHUB&logoColor=white)
 [![DISCORD](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=DISCORD&logoColor=white)](https://discord.gg/mJKztrxMBa)
 ![https://img.shields.io/badge/LINKEDIN-F7DF1E?style=for-the-badge&logo=LINKEDIN&logoColor=black](https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/)
-![https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/](https://img.shields.io/badge/LINKEDIN-F7DF1E?style=for-the-badge&logo=LINKEDIN&logoColor=black)
+![https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/](https://img.shields.io/badge/LINKEDIN-0e76a8?style=for-the-badge&logo=LINKEDIN&logoColor=white)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0e76a8?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/)
 
 
 
