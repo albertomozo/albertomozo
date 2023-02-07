@@ -10,11 +10,11 @@
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
 ## contacta ##
-![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=GITHUB&logoColor=white)
+[![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=WHITE)](https://www.youtube.com/channel/UCkbTI1wb0cLKkiNi1Sd9WbA)
 [![DISCORD](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=DISCORD&logoColor=white)](https://discord.gg/mJKztrxMBa)
-![https://img.shields.io/badge/LINKEDIN-F7DF1E?style=for-the-badge&logo=LINKEDIN&logoColor=black](https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/)
-![https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/](https://img.shields.io/badge/LINKEDIN-0e76a8?style=for-the-badge&logo=LINKEDIN&logoColor=white)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0e76a8?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/)
+
+ 📫 Puedes contactarme en : albertomozodocente@gmail.com
 
 
 
