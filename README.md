@@ -16,10 +16,12 @@
 
  📫 Puedes contactarme en : albertomozodocente@gmail.com
 
-
+## mi estado actual ##
 
 - 🔭 Actualmente estoy impartiendo cursos de BACKEND, FRONTEND 
 - 🌱 Aprendiendo, desaprendiendo y aprendiendo a aprender
+-  Actualmente disfrutando y trabajando duro 💪 con Git y GitHub
+[![Web](https://img.shields.io/badge/GitHub-mouredev-hello-git-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev/hello-git)
 
 
 <!--
