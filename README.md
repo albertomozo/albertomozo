@@ -8,10 +8,10 @@ __   Distintos soportes y formatos para el plano del monte urgull. De la piedra 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
-![CSS](https://img.shields.io/badge/HTML-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
-** contacta ***
+![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
+## contacta ##
 ![GITHUB](https://img.shields.io/badge/GITHUB-F7DF1E?style=for-the-badge&logo=GITHUB&logoColor=black)
-![https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/](https://img.shields.io/badge/LINKEDIN-F7DF1E?style=for-the-badge&logo=LINKEDN&logoColor=black)
+![https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/](https://img.shields.io/badge/LINKEDIN-F7DF1E?style=for-the-badge&logo=LINKEDIN&logoColor=black)
 
 
 
