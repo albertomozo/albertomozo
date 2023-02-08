@@ -13,7 +13,7 @@
 [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=WHITE)](https://www.youtube.com/channel/UCkbTI1wb0cLKkiNi1Sd9WbA)
 [![DISCORD](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=DISCORD&logoColor=white)](https://discord.gg/mJKztrxMBa)
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0e76a8?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/alberto-mozo-avellaned-80615713/)
-[![notion](https://img.shields.io/badge/notion-0e76a8?style=for-the-badge&logo=notion&logoColor=white)](https://pretty-streetcar-ee4.notion.site/99fe4ba7a31745ac9c762c250ed5c003?v=bfb15a01426d46bab38c82535b0b590d)
+[![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pretty-streetcar-ee4.notion.site/99fe4ba7a31745ac9c762c250ed5c003?v=bfb15a01426d46bab38c82535b0b590d)
 
  📫 Puedes contactarme en : albertomozodocente@gmail.com
 
