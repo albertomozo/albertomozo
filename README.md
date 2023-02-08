@@ -7,9 +7,12 @@
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=orange)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![BOOTSTRAP](img.shields.io/badge/BOOTSTRAP-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-712cf9?style=for-the-badge&logo=bootstrap&logoColor=white)
+![VUE](https://img.shields.io/badge/VUE.JS-41B883?style=for-the-badge&logo=VUE.JS&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-f05340?style=for-the-badge&logo=Laravel&logoColor=white)
+
 ## redes sociales ##
 [![YOUTUBE](https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=WHITE)](https://www.youtube.com/channel/UCkbTI1wb0cLKkiNi1Sd9WbA)
 [![DISCORD](https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=DISCORD&logoColor=white)](https://discord.gg/mJKztrxMBa)
