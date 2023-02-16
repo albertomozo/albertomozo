@@ -25,8 +25,8 @@
 
 - 🔭 Actualmente estoy impartiendo cursos de BACKEND, FRONTEND 
 - 🌱 Aprendiendo, desaprendiendo y aprendiendo a aprender
--  Actualmente disfrutando y trabajando duro 💪 con Git y GitHub
-[![hello-git](https://img.shields.io/badge/GitHub-mouredev/hello_git-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev/hello-git)
+<!---  Actualmente disfrutando y trabajando duro 💪 con Git y GitHub
+[![hello-git](https://img.shields.io/badge/GitHub-mouredev/hello_git-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev/hello-git)-->
 
 
 <!--
