@@ -38,7 +38,9 @@ Para poder usar estos datos como BACK de aplicaciones, estoy preparando una API 
 
 
 
-![evolucion de la informacion en planos](./img/NOTION-dev-js_V3.jpg "Sistema de DATOS API CLIENTE de mis curos)
+
+
+![mi sistema de informacion](./img/NOTION-dev-js_V3.jpg "mi sistema de información")
 * [![pdf](https://img.shields.io/badge/PDF-000000?style=for-the-badge&logo=pdf&logoColor=red)](https://raw.githubusercontent.com/albertomozo/albertomozo/refs/heads/main/assets/NOTION-dev-js_V3.pdf) interactivo de la imagen *
 
 
