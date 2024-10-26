@@ -25,6 +25,13 @@
 
 - 🔭 Actualmente estoy impartiendo cursos de BACKEND, FRONTEND 
 - 🌱 Aprendiendo, desaprendiendo y aprendiendo a aprender
+
+## Mi curriculum en json ##
+
+Si quieres ver mi curricukum en JSON...
+[![👩‍🎓 cv](https://raw.githubusercontent.com/albertomozo/albertomozo/refs/heads/main/assets/cv_AlbertoMozo_Manfred.json)]
+
+
 <!---  Actualmente disfrutando y trabajando duro 💪 con Git y GitHub
 [![hello-git](https://img.shields.io/badge/GitHub-mouredev/hello_git-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev/hello-git)-->
 
