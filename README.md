@@ -36,7 +36,10 @@ Si quieres ver mi curricukum en JSON siguiendo el esquema "$schema": "https://ra
 Estoy usando desde el 2021 [![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pretty-streetcar-ee4.notion.site/99fe4ba7a31745ac9c762c250ed5c003?v=bfb15a01426d46bab38c82535b0b590d), para organizar (toDoList) mi lista de materias.
 Para poder usar estos datos como BACK de aplicaciones, estoy preparando una API que transforma la API de NOTION en una API a mi medida. Me sirve como practica.
 
-[![pdf](https://img.shields.io/badge/PDF-000000?style=for-the-badge&logo=pdf&logoColor=red)](https://raw.githubusercontent.com/albertomozo/albertomozo/refs/heads/main/assets/NOTION-dev-js_V3.pdf)
+
+
+![evolucion de la informacion en planos](./img/NOTION-dev-js_V3.jpg "Sistema de DATOS API CLIENTE de mis curos)
+* [![pdf](https://img.shields.io/badge/PDF-000000?style=for-the-badge&logo=pdf&logoColor=red)](https://raw.githubusercontent.com/albertomozo/albertomozo/refs/heads/main/assets/NOTION-dev-js_V3.pdf) interactivo de la imagen *
 
 
 
