@@ -47,7 +47,7 @@ Si quieres ver mi curricukum en JSON siguiendo el esquema "$schema": "https://ra
 **Tecnologías**: JavaScript, Notion API, Vercel, Node.js
 **Descripción**: API REST que conecta con base de datos Notion para gestionar documentación técnica generada en cursos
 **Características**: Integración con Notion SDK, despliegue en Vercel, arquitectura serverless
-[htpps://notion-js-sdk-vercel.vercel.app][htpps://notion-js-sdk-vercel.vercel.app]
+[htpps://notion-js-sdk-vercel.vercel.app](htpps://notion-js-sdk-vercel.vercel.app)
 ### Sistema de Gestión de Películas (2023)
 **Tecnologías**: PHP, MySQL, Apache, TheMovieDB API, Bootstrap
 **Descripción**: Aplicación web completa que consume API externa, almacena datos en MySQL y permite valoraciones/comentarios de usuarios
