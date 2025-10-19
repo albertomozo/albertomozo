@@ -31,6 +31,31 @@
 Si quieres ver mi curricukum en JSON siguiendo el esquema "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
 [[👨‍🎓 cv](https://raw.githubusercontent.com/albertomozo/albertomozo/refs/heads/main/assets/cv_AlbertoMozo_Manfred.json)]
 
+
+## PROYECTOS DESTACADOS
+### Sistema de Gestión Académica - iKasleak (2024)
+**Tecnologías**: JavaScript Vanilla, HTML5, CSS3, APIs REST
+**Descripción**: Plataforma web para gestión de cursos impartidos con listados dinámicos y enlaces a resúmenes detallados de alumnos
+**Características**: Interfaz responsive, gestión de datos en tiempo real
+[https://ikasleak.netlify.app](https://ikasleak.netlify.app)
+### Portafolio Evolutivo de CV (2024)
+**Tecnologías**: JavaScript Vanilla, JSON, CSS3, Responsive Design
+**Descripción**: Evolución histórica de mis currículums desde los años 90, desde PDF estáticos hasta aplicaciones web dinámicas que consumen datos JSON
+**Características**: Múltiples formatos, diseño adaptativo, datos estructurados
+[https://cv-ejemplos.netlify.app](https://cv-ejemplos.netlify.app)
+### API de Gestión Documental (2024)
+**Tecnologías**: JavaScript, Notion API, Vercel, Node.js
+**Descripción**: API REST que conecta con base de datos Notion para gestionar documentación técnica generada en cursos
+**Características**: Integración con Notion SDK, despliegue en Vercel, arquitectura serverless
+[htpps://notion-js-sdk-vercel.vercel.app][htpps://notion-js-sdk-vercel.vercel.app]
+### Sistema de Gestión de Películas (2023)
+**Tecnologías**: PHP, MySQL, Apache, TheMovieDB API, Bootstrap
+**Descripción**: Aplicación web completa que consume API externa, almacena datos en MySQL y permite valoraciones/comentarios de usuarios
+**Características**: Panel de administración, CRUD completo, integración de APIs externas
+URLs:
+[Frontend](http://albertomozo.infinityfreeapp.com)
+[Admin](albertomozo.infinityfreeapp.com/admin)
+
 ## Mi ultimo proyecto ##
 
 Estoy usando desde el 2021 [![notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://pretty-streetcar-ee4.notion.site/99fe4ba7a31745ac9c762c250ed5c003?v=bfb15a01426d46bab38c82535b0b590d), para organizar (toDoList) mi lista de materias.
